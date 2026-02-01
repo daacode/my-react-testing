@@ -1,4 +1,4 @@
-# React + Vite
+# A Beginner’s Guide to Testing React Applications
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
